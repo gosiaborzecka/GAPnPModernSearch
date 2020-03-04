@@ -1,0 +1,18 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/spfx-build/config.2.0.schema.json",
+  "version": "2.0",
+  "bundles": {
+    "ga-modern-search-application-customizer": {
+      "components": [
+        {
+          "entrypoint": "./lib/extensions/gaModernSearch/GaModernSearchApplicationCustomizer.js",
+          "manifest": "./src/extensions/gaModernSearch/GaModernSearchApplicationCustomizer.manifest.json"
+        }
+      ]
+    }
+  },
+  "externals": {},
+  "localizedResources": {
+    "GaModernSearchApplicationCustomizerStrings": "lib/extensions/gaModernSearch/loc/{locale}.js"
+  }
+}
