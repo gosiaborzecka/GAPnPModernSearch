@@ -9,7 +9,7 @@
         "59d84cba-85f0-4f49-bea4-97984e0fab1b": {
           "location": "ClientSideExtension.ApplicationCustomizer",
           "properties": {
-            "testMessage": "Test message"
+            "trackingId": "UA-159314959-1"
           }
         }
       }
@@ -20,7 +20,7 @@
         "59d84cba-85f0-4f49-bea4-97984e0fab1b": {
           "location": "ClientSideExtension.ApplicationCustomizer",
           "properties": {
-            "testMessage": "Test message"
+            "trackingId": "UA-159314959-1"
           }
         }
       }

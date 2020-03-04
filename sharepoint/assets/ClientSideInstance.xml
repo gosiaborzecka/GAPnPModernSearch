@@ -4,6 +4,6 @@
         Title="GaModernSearch"
         Location="ClientSideExtension.ApplicationCustomizer"
         ComponentId="59d84cba-85f0-4f49-bea4-97984e0fab1b"
-        Properties="{&quot;testMessage&quot;:&quot;Test message&quot;}">
+        Properties="{&quot;trackingId&quot;:&quot;UA-159314959-1&quot;}">
     </ClientSideComponentInstance>
 </Elements>
