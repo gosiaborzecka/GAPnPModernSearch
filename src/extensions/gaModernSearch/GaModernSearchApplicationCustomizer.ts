@@ -3,9 +3,6 @@ import { Log } from '@microsoft/sp-core-library';
 import {
   BaseApplicationCustomizer
 } from '@microsoft/sp-application-base';
-import { Dialog } from '@microsoft/sp-dialog';
-import { sp } from "@pnp/sp/presets/all";
-import { setup as pnpSetup } from "@pnp/common";
 import * as $ from 'jquery';
 
 import * as strings from 'GaModernSearchApplicationCustomizerStrings';
